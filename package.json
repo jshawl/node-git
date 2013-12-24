@@ -1,0 +1,14 @@
+{
+  "name": "node-git",
+  "version": "0.0.1",
+  "description": "A Node.js powered git repository viewer for the web",
+  "author": "Jesse Shawl http://jesse.sh/awl/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jshawl/node-git.git"
+  },
+  "devDependencies": {
+    "express": "~3.4.7",
+    "hbs": "~2.4.0"
+  }
+}
